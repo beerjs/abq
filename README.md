@@ -4,16 +4,16 @@ BeerJS Abq is a monthly meetup for folks around The Duke City doing cool things 
 
 ## How to join
 
-Clik the <http://beerjs.github.io/sf/assets/watch.png" height="18"> button for this repo to get notified of future meetups.
+Click the <img src="http://beerjs.github.io/sf/assets/watch.png" height="18"/> button for this repo to get notified of future meetups.
 
 ## How to help
 
-File a ticket for suggestions or issues, submit a PR for updates to this wiki
+File a ticket for suggestions or issues, submit a PR for updates to this wiki.
 
 ## Why GitHub?
 
 * If you're doing cool stuff with JS, you're probably on GitHub anyway
-* GitHub is free, Meetup cost money
+* GitHub is free, Meetup costs money
 * Why not?
 
 ## Organizers
