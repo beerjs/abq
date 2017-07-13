@@ -25,6 +25,6 @@ Oh and since we are talking about Slack, you can join the ABQWebgeeks Slack chan
 ## Organizers
 
 * Damon Toal-Rossi ([GitHub](https://github.com/orbiteleven) / [Twitter](https://twitter.com/orbiteleven))
-* Mark Casias ([Github](https://github.com/mark-casias) / [Twitter[(https://twitter.com/teampoop))
+* Mark Casias ([Github](https://github.com/mark-casias) / [Twitter](https://twitter.com/teampoop))
 
 More to come after our first beers!
