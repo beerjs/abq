@@ -1,6 +1,7 @@
 # ABQ Beer.js
 
-BeerJS Abq is a monthly meetup for folks around The Duke City doing cool things with JavaScript. Who like beer. Sound familiar?
+BeerJS Abq is a monthly meetup for beer liking folks around The Duke City doing cool things with JavaScript. By default, we meet the last Wednesday of the month, typically
+at 6:30pm. Sometimes people post a special request (e.g., a date change to accommodate a visitor from out of town) as an issue.
 
 ## How to join
 
@@ -27,4 +28,3 @@ Oh and since we are talking about Slack, you can join the ABQWebgeeks Slack chan
 * Damon Toal-Rossi ([GitHub](https://github.com/orbiteleven) / [Twitter](https://twitter.com/orbiteleven))
 * Mark Casias ([Github](https://github.com/mark-casias) / [Twitter](https://twitter.com/teampoop))
 
-More to come after our first beers!
